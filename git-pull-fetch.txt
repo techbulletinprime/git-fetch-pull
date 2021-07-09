@@ -10,3 +10,4 @@ git fetch origin
 git diff origin/development
 git log -p HEAD..FETCH_HEAD
 some text added
+pull example
